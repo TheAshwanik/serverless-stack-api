@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "workday": "2020-04-05"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

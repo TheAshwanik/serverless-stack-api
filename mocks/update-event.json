@@ -1,0 +1,11 @@
+{
+  "body": "{\"workday\":\"2020-04-05\",\"connectivity\":\"Issues\",\"anycomment\": \"No Comments\"}",
+  "pathParameters": {
+    "email": "ashwani@example.com"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

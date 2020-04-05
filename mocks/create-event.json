@@ -1,0 +1,8 @@
+{
+  "body": "{\"name\": \"ashwani\",\"email\": \"ashwani@example.com\",\"workday\":\"2020-04-05\",\"connectivity\":\"No Issues\",\"anycomments\":\"No Comments\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
